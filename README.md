@@ -1,2 +1,2 @@
 # chatApp
-example
+Example
